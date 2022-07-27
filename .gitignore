@@ -1,0 +1,7 @@
+# Files
+ConsoleGameEngine.sln
+*.vcxproj*
+
+# Folders
+.vs
+intermediate
